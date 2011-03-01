@@ -1,0 +1,9 @@
+Safari Reader mod by @jarques
+
+Place the following in /Applications/Safari/Contents/Resources
+
+[] Reader.html
+[] ReaderThumb.png
+[] ReaderTrack.png
+[] ReaderBg.png
+[] ScratchBg.png
